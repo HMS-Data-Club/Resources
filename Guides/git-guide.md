@@ -53,7 +53,7 @@ To get a copy of the first Data Club GitHub repository in RStudio do the followi
 
  - [A good git reference book](https://git-scm.com/book/en/v2)
  - Git desktop environments:  <https://desktop.github.com/> and those from <https://git-scm.com/downloads> 
- - [RStudio and git guide] (http://www.r-bloggers.com/rstudio-and-github/) 
+ - [RStudio and git guide](http://www.r-bloggers.com/rstudio-and-github/) 
  - A great [interactive site](https://learngitbranching.js.org/) for learning Git 
  - A useful git [cheat sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf) 
  - [Software Carpentry's git lessons](http://swcarpentry.github.io/git-novice/) 
