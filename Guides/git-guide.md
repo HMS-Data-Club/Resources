@@ -24,6 +24,7 @@ For the purpose of our Data Club, we will use GitHub primarily to share code wit
 2. It is reccomended for you to setup your local username and email address before using Git, and in some cases is required. This does not need to match GitHub (we’ll do that next). You will need to use a terminal window for this (Command Prompt in Windows or Terminal on Mac). You can also use the Terminal window in RStudio if you prefer (different from the Console window)
 
     `git config --global user.name "First Last"`
+    
     `git config --global user.email "me@email.com"`
 
 *Watch detailed instructions in [this video](https://www.youtube.com/watch?v=yDntCIs-IJM) if needed*
