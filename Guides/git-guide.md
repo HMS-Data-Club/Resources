@@ -31,7 +31,7 @@ For the purpose of our Data Club, we will use GitHub primarily to share code wit
 
 ## Create a Github Account
 
-If you do not have one already go to [github.com](github.com) and register for a new account. We recommend you use a personal email address to sign up as your GitHub is seen as a personal asset. However, with an academic email you can unlock more features so **once registered you can add your Harvard or other .edu email address to get these [educational benefits](https://education.github.com/discount_requests/student_application)**.
+If you do not have one already go to [github.com](github.com) and register for a new account. We recommend you use a personal email address to sign up as your GitHub is seen as a personal asset. However, with an academic email you can unlock more features so **once registered you can add your Harvard or other .edu email address to get educational benefits as a [student](https://education.github.com/discount_requests/student_application) or as a [teacher/researcher](https://education.github.com/discount_requests/teacher_application)**.
 
 ## Integrate Git /GitHub with RStudio
 
