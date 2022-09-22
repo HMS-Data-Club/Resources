@@ -5,7 +5,7 @@
 
 This document will provide you with resources and tutorials to get you started with Git and GitHub. We will provide details on how to get access to the Data Club’s files and get them on your local computer so you can edit and work with them.
 
-## What is Git / Github
+## What is Git / GitHub
 
 Git is a file version control system that helps you keep track of any changes you make to specific documents (e.g., code). This a much more elegant solution than copying a file over and over and changing the name to things like: file_version1, file_version2, file_final, file_finalVersion, file_final_finalVersion …
 
