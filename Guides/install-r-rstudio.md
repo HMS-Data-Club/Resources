@@ -12,8 +12,6 @@
 6. Save the .pkg file, double-click it to open, and follow the installation instructions.
 7. Now that R is installed, you need to download and install RStudio.
 
-<br/>
-
 ### To install RStudio
 
 1. Go to www.rstudio.com and click on the "Download RStudio" button.
@@ -21,7 +19,6 @@
 3. Download the Free version of RStudio Desktop.
 4. Save the .dmg file on your computer, double-click it to open, and then drag and drop it to your applications folder.
 
-<br/>
 <br/>
 
 
@@ -36,8 +33,6 @@
 5. Click on the "install R for the first time" link at the top of the page.
 6. Click "Download R for Windows" and save the executable file somewhere on your computer. Run the .exe file and follow the installation instructions.
 7. Now that R is installed, you need to download and install RStudio.
-
-<br/>
 
 ### To install RStudio
 
