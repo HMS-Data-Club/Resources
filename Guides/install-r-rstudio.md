@@ -41,4 +41,12 @@
 3. Download the Free version of RStudio Desktop.
 3. Save the executable file. Run the .exe file and follow the installation instructions.
 
+<br/>
+
+
+## Reference
+
+Instructions adapted from guide developed by [HMS Research computing](https://harvardmed.atlassian.net/wiki/spaces/O2/pages/1613660237/Intro+to+R+Bioconductor+Fall+2019)
+
+
 
