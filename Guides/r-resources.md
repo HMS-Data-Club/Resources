@@ -8,8 +8,6 @@ The [HBC GitHub page](https://tinyurl.com/hcbc-modules) hosts information about 
 * Tidyverse
 * Data visualization any much more
 
-<br/>
-
 ### Harvard Catalyst
 
 Havard Catalyst has an online [Intro to R course](https://catalyst.harvard.edu/courses/intro-to-r/). This course is freely available to Harvard-affiliated schools and institutions. It includes a number of short videos explaining coding concepts in R through live coding. Units include:
