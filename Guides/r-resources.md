@@ -7,6 +7,8 @@ The [HBC GitHub page](https://tinyurl.com/hcbc-modules) hosts information about 
 * Introduction to R
 * Tidyverse
 * Data visualization any much more
+* and more...
+
 
 ### Harvard Catalyst
 
@@ -16,6 +18,7 @@ Havard Catalyst has an online [Intro to R course](https://catalyst.harvard.edu/c
 * Function and arguments
 * Data wrangling
 * Plotting
+* and more...
 
 
 <br/>
